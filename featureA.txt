@@ -2,3 +2,4 @@ featureA.txt
 ddddd
 ddddd
 ddddd
+ddddd
